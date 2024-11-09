@@ -1,3 +1,5 @@
+Yannicks fork of Kickstart. Have not much idea of how it works or what I can do with it. Hopefully this has changed by the time you read this.
+
 # kickstart.nvim
 
 ## Introduction
